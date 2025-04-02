@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<labwc_config>
+  <core>
+  </core>
+  <theme>
+    <cornerRadius>0</cornerRadius>
+    <name>Adwaita</name>
+    <dropShadows>no</dropShadows>
+  </theme>
+  <placement>
+    <policy/>
+  </placement>
+  <libinput>
+    <device>
+      <naturalScroll/>
+    </device>
+  </libinput>
+</labwc_config>

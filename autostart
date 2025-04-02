@@ -1,0 +1,5 @@
+#!/bin/sh
+wlr-randr --output eDP-1 --mode 1920x1080@60
+sfwbar & 
+swaybg -i /home/user/.config/labwc/1.png -m fill
+
